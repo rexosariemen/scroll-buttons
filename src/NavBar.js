@@ -5,7 +5,6 @@ class NavBar extends Component {
     // React Ref is created here
     this.navRef = React.createRef();
   }
-
   /* This func handles the scrolling by incrementing or decrementing
    the scrollLeft property */
   handleNav = (direction) => {
