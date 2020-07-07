@@ -1,0 +1,36 @@
+.nav-items {
+  background-color: rgb(46, 43, 197);
+  overflow: auto;
+  white-space: nowrap;
+}
+
+
+.nav-items a {
+  border-right: 2px solid grey;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.nav-items a:hover {
+  background-color: #777;
+}
+
+.menu-container {
+  display: flex;
+  flex-direction: row;
+}
+button {
+  color: blue;
+  border: none;
+  background-color: white;
+  text-align: center;
+  padding: 14px;
+  /* text-decoration: none; */
+  cursor: pointer;
+}
+button:hover{
+  background-color: whitesmoke;
+}

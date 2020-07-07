@@ -1,0 +1,33 @@
+{
+  "name": "scroll-buttons",
+  "version": "1.0.0",
+  "description": "This is a react implementation of a horizontal scroll menu using buttons to scroll right or left using React Refs",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "exit"
+  },
+  "keywords": [
+    "React",
+    "Refs",
+    "Horizontal",
+    "Scrolling",
+    "Buttons",
+    "scrollLeft",
+    "property",
+    "DOM",
+    "manipulation",
+    "in",
+    "React"
+  ],
+  "author": "@rexosariemen",
+  "license": "MIT",
+  "dependencies": {
+    "font-awesome": "4.7.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}

@@ -1,0 +1,1 @@
+This is a react implementation of how to create Horizontal Scroll Menu and by extension adding navigation buttons to scroll right or left by using React Refs and the scrollLeft property of DOM elements
